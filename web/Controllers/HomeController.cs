@@ -16,6 +16,10 @@ namespace web.Controllers
         {
             return View();
         }
-        
+        public ActionResult Halil()
+        {
+            return View();
+        }
+
     }
 }

@@ -12,7 +12,7 @@ namespace web.Controllers
         {
             return View();
         } 
-        public ActionResult Onur()
+        public ActionResult OnurNergiz()
         {
             return View();
         }
